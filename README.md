@@ -9,6 +9,7 @@ A machine learning project designed to detect fraudulent credit card transaction
 
 ## 📁 Project Structure
 
+.
 NeuroNexus/
 │
 ├── data/
