@@ -16,9 +16,6 @@ NeuroNexus/
 ├── data/
 │   └── creditcard.csv          # Your dataset
 │
-├── notebook/
-│   └── eda_and_modeling.ipynb  # Jupyter notebook (optional for EDA)
-│
 ├── src/
 │   └── preprocess.py           # Preprocessing functions
 │   └── model.py                # Model training and evaluation
