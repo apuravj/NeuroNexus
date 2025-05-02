@@ -27,7 +27,7 @@ NeuroNexus/
 ├── requirements.txt            # Required libraries
 ├── .gitignore
 ├── README.md
-
+```
 
 ---
 
